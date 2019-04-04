@@ -5,7 +5,7 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 
 id    = "com.phonegap.app3"
 version  = "1.0.0">
-id = "com.phonegap.app2"
+id = "com.phonegap.app3"
 version = "1.0.0">
 
 <name>app3-Dia Mundial de la Salud </name>
@@ -13,6 +13,8 @@ version = "1.0.0">
 <description>
 Aplicacion que nos muestra informacion sobre el Dia Mundial de la Salud
 </description>
+
+<preference name="phonegap-version" value="3.1.0" />
 
 <author href="https://build.phonegap.com" email="asaf.gserrano@hotmail.com">
 Garcia Serrano Carlos Asaf
