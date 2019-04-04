@@ -2,19 +2,14 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-
-id    = "com.phonegap.app3"
-version  = "1.0.0">
 id = "com.phonegap.app3"
 version = "1.0.0">
 
-<name>app3-Dia Mundial de la Salud </name>
+<name>app3-Dia Mundial De La Salud
 
 <description>
-Aplicacion que nos muestra informacion sobre el Dia Mundial de la Salud
+Aplicacion que nos muestra los modulos de la especialidad de programación
 </description>
-
-<preference name="phonegap-version" value="3.1.0" />
 
 <author href="https://build.phonegap.com" email="asaf.gserrano@hotmail.com">
 Garcia Serrano Carlos Asaf
@@ -38,7 +33,7 @@ Garcia Serrano Carlos Asaf
 <allow-intent href="https://*/*"/>
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
-<acces origin="http://*/*"/>
+<acces origin="http ://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--Colocar icono app-->
